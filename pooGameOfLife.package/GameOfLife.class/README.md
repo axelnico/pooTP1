@@ -1,0 +1,2 @@
+Represents the game which consists in a two dimensional grid of cells each of them dead or alive. 
+It can compute the next generation of cells based on its actual grid and show the grid with the cells.

@@ -1,0 +1,14 @@
+{
+	"category" : "pooGameOfLife",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"grid" ],
+	"name" : "GameOfLife",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

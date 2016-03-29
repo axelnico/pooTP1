@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"grid:" : "NicolasBukovits 3/27/2016 16:38" },
+	"instance" : {
+		"cell:neighbors:" : "NicolasBukovits 3/28/2016 21:23",
+		"computeNextGeneration" : "NicolasBukovits 3/28/2016 21:24",
+		"grid:" : "NicolasBukovits 3/27/2016 20:39",
+		"neighborsAt:at:" : "NicolasBukovits 3/28/2016 21:22",
+		"showGrid" : "NicolasBukovits 3/27/2016 16:45" } }

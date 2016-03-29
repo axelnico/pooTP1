@@ -1,0 +1,1 @@
+Represents a Cell that can be dead or alive

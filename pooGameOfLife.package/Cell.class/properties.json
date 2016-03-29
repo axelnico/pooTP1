@@ -1,0 +1,14 @@
+{
+	"category" : "pooGameOfLife",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NicolasBukovits 3/27/2016 20:48",
+	"instvars" : [
+		"alive" ],
+	"name" : "Cell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
